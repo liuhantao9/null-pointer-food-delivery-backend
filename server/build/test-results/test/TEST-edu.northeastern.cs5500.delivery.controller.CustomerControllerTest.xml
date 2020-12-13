@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.northeastern.cs5500.delivery.controller.CustomerControllerTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-12-12T22:09:19" hostname="Hantaos-MacBook-Pro.local" time="0.778">
+  <properties/>
+  <testcase name="testLogin" classname="edu.northeastern.cs5500.delivery.controller.CustomerControllerTest" time="0.298"/>
+  <testcase name="testAddCustomer" classname="edu.northeastern.cs5500.delivery.controller.CustomerControllerTest" time="0.055"/>
+  <testcase name="testEditPayment" classname="edu.northeastern.cs5500.delivery.controller.CustomerControllerTest" time="0.051"/>
+  <testcase name="testEditProfile" classname="edu.northeastern.cs5500.delivery.controller.CustomerControllerTest" time="0.183"/>
+  <testcase name="testSignup" classname="edu.northeastern.cs5500.delivery.controller.CustomerControllerTest" time="0.046"/>
+  <testcase name="testResetPassword" classname="edu.northeastern.cs5500.delivery.controller.CustomerControllerTest" time="0.096"/>
+  <testcase name="testGetCustomer" classname="edu.northeastern.cs5500.delivery.controller.CustomerControllerTest" time="0.047"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
