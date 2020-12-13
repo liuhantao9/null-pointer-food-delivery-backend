@@ -9,4 +9,6 @@ public class OrderItem {
     private String name;
     private double price;
     private int quantity;
+
+    public OrderItem(){}
 }

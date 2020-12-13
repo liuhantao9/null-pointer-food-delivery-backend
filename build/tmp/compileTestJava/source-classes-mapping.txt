@@ -1,8 +1,0 @@
-edu/northeastern/cs5500/delivery/controller/CustomerControllerTest.java
- edu.northeastern.cs5500.delivery.controller.CustomerControllerTest
-edu/northeastern/cs5500/delivery/controller/DriverControllerTest.java
- edu.northeastern.cs5500.delivery.controller.DriverControllerTest
-edu/northeastern/cs5500/delivery/AppTest.java
- edu.northeastern.cs5500.delivery.AppTest
-edu/northeastern/cs5500/delivery/controller/OrderControllerTest.java
- edu.northeastern.cs5500.delivery.controller.OrderControllerTest
