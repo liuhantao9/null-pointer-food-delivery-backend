@@ -1,6 +1,6 @@
 # Delivery
 
-This is the basic Delivery project that all students forked in CS5500 F20.
+This is food delivery project for team Null Pointer
 
 ## Requirements
 
