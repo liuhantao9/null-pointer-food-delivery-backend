@@ -1,6 +1,6 @@
 # Delivery
 
-This is food delivery project for team Null Pointer
+This is food delivery project for team Null Pointer.
 
 ## Requirements
 
