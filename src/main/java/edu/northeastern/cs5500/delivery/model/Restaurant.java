@@ -1,11 +1,12 @@
 package edu.northeastern.cs5500.delivery.model;
 
-import com.fasterxml.jackson.annotation.JsonFormat;
-import com.fasterxml.jackson.annotation.JsonIgnore;
-import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+
+import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 import lombok.Data;
 
 @Data
@@ -15,9 +16,7 @@ public class Restaurant implements Model {
     private double latitude, longitude;
     private List<Review> reviewsList;
     private List<Dish> menu;
-    private boolean isOpen;
-    private LocalTime open;
-    private LocalTime close;
+    private boolean open;
     private Float rating;
 
     public Restaurant() {
